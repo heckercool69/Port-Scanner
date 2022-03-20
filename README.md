@@ -2,6 +2,5 @@
 🚀 Simple Fast Port Scanner!
 
 
-##Dependencies
-Socket
-termcolor
+## Dependencies
+- Socket

@@ -16,7 +16,7 @@ def scan_port(ipaddress, port):
 		pass
 
 
-targets = input("[*] Feed me ip address (seperate by ,): ")
+targets = input("[*] Enter the ip address (seperate by ,): ")
 ports = int(input("[*] How many ports do you want?: "))
 
 if ',' in targets:
